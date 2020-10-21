@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "758914874486",
+    "firebase_url": "https://glassfirebase-d8358.firebaseio.com",
+    "project_id": "glassfirebase-d8358",
+    "storage_bucket": "glassfirebase-d8358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758914874486:android:5ac1dbc707b3422539f357",
+        "android_client_info": {
+          "package_name": "com.example.flutfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758914874486-qqof86kcg577bas2no97bnh4kjjc7grk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Dm3DPLl-YmGkDH8juh5uBTfEPopRch4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758914874486-qqof86kcg577bas2no97bnh4kjjc7grk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758914874486:android:d720cae5bcc6ded439f357",
+        "android_client_info": {
+          "package_name": "com.gozlukstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758914874486-qqof86kcg577bas2no97bnh4kjjc7grk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Dm3DPLl-YmGkDH8juh5uBTfEPopRch4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758914874486-qqof86kcg577bas2no97bnh4kjjc7grk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
